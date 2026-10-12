@@ -1,0 +1,8 @@
+table,rows,columns,duplicate_rows,key_columns,unique_keys,duplicate_keys,null_cells
+assessments,206,6,0,id_assessment,206,0,11
+courses,22,3,0,"code_module,code_presentation",22,0,0
+studentAssessment,173912,5,0,"id_assessment,id_student",173912,0,173
+studentInfo,32593,12,0,"code_module,code_presentation,id_student",32593,0,1111
+studentRegistration,32593,5,0,"code_module,code_presentation,id_student",32593,0,22566
+studentVle,10655280,6,787170,"code_module,code_presentation,id_student,id_site,date",8459320,2195960,0
+vle,6364,6,0,"code_module,code_presentation,id_site",6364,0,10486
