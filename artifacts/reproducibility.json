@@ -1,0 +1,19 @@
+{
+  "seed": 20261012,
+  "python": "3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "dataset_zip": "C:\\Users\\bhavv\\OneDrive\\Desktop\\Dravvya(4th Sem)\\ML_mini_project\\open+university+learning+analytics+dataset.zip",
+  "dataset_bytes": 46748244,
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "3.0.0",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.15.1",
+    "matplotlib": "3.11.1",
+    "seaborn": "0.13.2",
+    "pyarrow": "17.0.0",
+    "lightgbm": "4.6.0",
+    "joblib": "1.4.2"
+  },
+  "created_utc": "2026-10-12T01:56:12.694193+00:00"
+}
