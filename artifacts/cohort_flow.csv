@@ -1,0 +1,7 @@
+stage,rows,excluded_from_previous
+candidate student x eligible assessment,251102,
+registration date observed,250744,358.0
+registered by prediction day,250711,33.0
+not unregistered on/before P,188747,61964.0
+target not submitted on/before P,151615,37132.0
+outcome-valid rows,151600,15.0

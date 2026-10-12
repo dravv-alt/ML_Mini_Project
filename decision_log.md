@@ -22,3 +22,10 @@
 - Late target submissions are treated as no on-time submission in the primary label and varied in sensitivity analysis.
 - Banked records are retained and flagged in the primary cohort, then excluded in a sensitivity analysis.
 - Learners unregistering after the prediction day remain eligible; excluding them would use future information.
+
+## Phase 3 — 2026-10-12
+
+- The seven-day primary cohort contains 151,600 unique learner-assessment rows after all prospective eligibility rules and 15 retrospective outcome-validity exclusions.
+- Primary on-time non-success prevalence is 61.158%.
+- Candidate construction, registration eligibility, unregistration eligibility, already-submitted exclusion, and outcome validity are recorded in `artifacts/cohort_flow.csv`.
+- Ten deterministic manual audit examples (five positive and five negative) were displayed during execution.
